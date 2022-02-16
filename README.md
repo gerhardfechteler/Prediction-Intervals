@@ -1,4 +1,4 @@
-# Prediction Intervals
+# Prediction-Intervals
 
 The moduel PI_module implements valid prediction intervals for general error terms and is based on the paper "Semiparametric Prediction Intervals in Parametric Models with Non-normal Additive Error Terms", soon available on arXiv. The link will be added here.
 
